@@ -32,7 +32,7 @@ echo -b "_____________________________________________________________" | lolcat
 echo -b "TYPE      : TOOLS INSTALLER $green " |lolcat
 echo -b "VERSION   : V.3 " | lolcat
 echo -b "TOTALS    : 311 TOOLS " | lolcat
-echo -b "AUTHOR    : TUAN B4DUT $green " |lolcat
+echo -b "AUTHOR    : KEVIN HACK $green " |lolcat
 echo -b "ASSOCIATE : INDONESIAN TERMUX ASSOCIATION $green " |lolcat
 echo -b "ASSOCIATE : INDONESIAN TERMUX TUTORIAL $green " |lolcat
 echo -b "ASSOCIATE : INDONESIAN DARK TERMUX ASSOCIATE $green " |lolcat
